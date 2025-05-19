@@ -1,0 +1,9 @@
+
+{
+  "name": "WMS Viewer",
+  "description": "Viser WMS-lag synkronisert med kamerautsnitt",
+  "version": "1.0.0",
+  "main": "widget.js",
+  "icon": "🗺️",
+  "tags": ["WMS", "kart", "geodata"]
+}
